@@ -14,7 +14,7 @@ Note
 </h1>
 
 <!-- formulaire ajout de note -->
-<form action="formHandler.php" method="post">
+<form action="controller.php" method="post">
     <input type="hidden" name="hidden" value="createNote">
     <input type="submit" value="Ajouter une note">
 </form>
